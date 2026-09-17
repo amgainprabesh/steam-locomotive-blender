@@ -4,6 +4,8 @@ A classic steam locomotive + coal tender, modeled, textured, and animated **enti
 
 ![Preview](preview.png)
 
+![Watch it run](preview.gif)
+
 ## Contents
 
 | File | Description |
